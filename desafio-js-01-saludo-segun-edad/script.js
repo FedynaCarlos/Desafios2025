@@ -3,7 +3,7 @@ let nombre = prompt("Ingrese su nombre:");
 let edadTexto = prompt("Ingrese su edad:");
 let edad = parseInt(edadTexto); // Convierte la edad a número
 
-// Verifica que el nombre no esté vacío y que la edad sea un número válido
+// Verifica que el nombre no esté vacío y que la edad sea un número válido sí o sí.
 if (nombre && !isNaN(edad)) {
 
   if (edad >= 7 && edad < 18) {
@@ -17,5 +17,5 @@ if (nombre && !isNaN(edad)) {
   }
 
 } else {
-  alert("Por favor, volvé a ingresar los datos de forma válida.");
+  alert("Por favor, volvé a ingresar datos de forma válida.");
 }

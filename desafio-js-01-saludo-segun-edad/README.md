@@ -14,11 +14,11 @@ Pide el nombre y la edad al usuario, y según su edad muestra un mensaje persona
 
 - Si tiene entre **7 y 17 años**, se le recomienda estudiar JavaScript.
 - Si tiene entre **18 y 39 años**, se lo motiva a crecer profesionalmente.
-- Para otras edades, se informa que el desafío está orientado a un público específico.
+- Para otras edades, se informa que el desafío está orientado a un público muy específico.
 
 ---
 
-### 🔧 Cómo probarlo
+#### 🔧 Cómo probarlo
 
 1. Abrí el archivo `index.html` en tu navegador.
 2. Completá los datos cuando se te pidan.
