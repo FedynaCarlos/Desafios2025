@@ -28,4 +28,4 @@ Pide el nombre y la edad al usuario, y según su edad muestra un mensaje persona
 
 ### 🧠 Aprendizajes
 
-Este desafío me ayudó a practicar la interacción básica con el usuario, validación de datos y lógica de condiciones en JavaScript.
+Este desafío me ayudó a practicar la interacción básica con el usuario, validación de datos y lógica de condiciones en JavaScript

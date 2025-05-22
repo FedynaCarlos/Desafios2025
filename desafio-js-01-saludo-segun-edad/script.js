@@ -17,5 +17,5 @@ if (nombre && !isNaN(edad)) {
   }
 
 } else {
-  alert("Por favor, volvé a ingresar datos de forma válida.");
+  alert("Por favor, volvé a ingresar los datos de forma válida.");
 }
