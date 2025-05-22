@@ -11,7 +11,7 @@ Cada desafío incluye una pequeña aplicación o ejercicio práctico que refleja
 - Consolidar mis conocimientos con desafíos reales y progresivos.
 - Mostrar públicamente mi evolución como desarrollador.
 - Armar un portfolio funcional y profesional.
-- Publicar cada avance en GitHub y LinkedIn.
+- Publicar cada avance en GitHub y LinkedIn
 
 ---
 

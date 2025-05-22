@@ -7,7 +7,7 @@ function verificarNumero() {
 
   if (!isNaN(valor) && valor >= 1 && valor <= 10) {
     if (valor === numeroSecreto) {
-      mensaje.textContent = "🎉 ¡Correcto! El número secreto era " + numeroSecreto;
+      mensaje.textContent = "🎉 ¡Correcto!. El número secreto era " + numeroSecreto;
       mensaje.style.color = "green";
     } else {
       mensaje.textContent = "❌ No es correcto. El número secreto era " + numeroSecreto;
