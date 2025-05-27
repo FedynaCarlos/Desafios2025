@@ -100,13 +100,6 @@ Este proyecto forma parte del repositorio:
 
 💬 "Cada línea de código que escribo me acerca un paso más a mi objetivo." – Juan Carlos Fedyna
 
-yaml
-Copiar
-Editar
-
----
-
-📝 **Sugerencia:** Si querés, puedo ayudarte a reemplazar los links de GitHub, LinkedIn o las capturas cuando tengas tus propias imágenes y cuenta. ¿Querés armar también una imagen de portada (`banner.png`) para el repo?
 
 
 
