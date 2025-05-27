@@ -53,3 +53,16 @@ Este ejercicio consiste en una aplicación desarrollada con **React**, que refue
    ```bash
    git clone https://github.com/tu-usuario/nombre-repo.git
    cd nombre-repo/dia3-react
+   Instalá dependencias:
+
+
+npm install
+Ejecutá el proyecto:
+
+bash
+
+npm run dev
+📌 Este archivo se irá actualizando a medida que avance en los próximos días del desafío.
+
+Seguime para ver mi evolución semana a semana.
+Gracias por pasar 🚀
