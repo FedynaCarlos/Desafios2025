@@ -86,13 +86,14 @@ Diseño limpio, centrado y con imagen de fondo.
 ⏳ Persistencia en localStorage.
 
 ⏳ Migrar a TypeScript.
+🧑‍💻 podes ver el proyecto acá: https://elaborate-biscuit-5efb51.netlify.app/
 
 🧑‍💻 Autor
 Juan Carlos Fedyna
 📌 Desarrollador Web en formación
-🔗 LinkedIn
-📸 Instagram
-🐙 GitHub
+🔗 https://www.linkedin.com/in/juancarlosfedyna/
+
+🐙 GitHub  https://github.com/FedynaCarlos
 
 🔗 Proyecto general
 Este proyecto forma parte del repositorio:
