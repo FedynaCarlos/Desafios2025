@@ -1,8 +1,8 @@
-# 🚀 Desafíos para crecer como Desarrollador Web Full Stack
+# 🚀 Desafíos y repasos técnicos para crecer como Desarrollador Web Full Stack
 
-Hola, soy **Juan Carlos Fedyna** y este repositorio contiene una serie de desafíos que estoy realizando para demostrar mi progreso como **desarrollador web full stack**.
+Hola, soy **Juan Carlos Fedyna** y este repositorio contiene una serie de desafíos y ejercicios prácticos que estoy realizando para demostrar y consolidar mi progreso como **desarrollador web full stack**.
 
-Cada desafío incluye una pequeña aplicación o ejercicio práctico que refleja mi avance técnico, incorporando lógica, diseño modular, interacción con el usuario y buenas prácticas de desarrollo.
+Cada día aborda un aspecto clave del desarrollo web, combinando lógica, diseño modular, interacción con el usuario y buenas prácticas. Algunos desafíos cumplen un doble objetivo: ejercitar habilidades nuevas y reforzar fundamentos esenciales.
 
 ---
 
@@ -10,43 +10,41 @@ Cada desafío incluye una pequeña aplicación o ejercicio práctico que refleja
 
 - Consolidar mis conocimientos con desafíos reales y progresivos.
 - Mostrar públicamente mi evolución como desarrollador.
-- Armar un portfolio funcional y profesional.
-- Publicar cada avance en GitHub y LinkedIn
+- Construir un portfolio funcional, escalable y profesional.
+- Publicar cada avance en GitHub y LinkedIn.
 
 ---
 
 ## 📚 Desafíos realizados
 
-| 🔵 Desafío | 🧠 Tema                          | 🛠️ Tecnologías principales             | 🔵 Estado       |
-|-----------:|----------------------------------|----------------------------------------|-----------------|
-| Día 1      | Variables y tipos de datos       | JavaScript ES6+, Git                   | ✅ Completado    |
-| Día 2      | Lógica + diseño con Flexbox      | JavaScript, Flexbox, estructura semántica | ✅ Completado |
-| Día 3      | Estados y eventos en React       | React.js, JSX, useState, CSS Modules   | ✅ Completado    |
-| Día 4      | ...                              |                                        | ⏳ Pendiente     |
-| Día 5      | ...                              |                                        | ⏳ Pendiente     |
-| Día 6      | ...                              |                                        | ⏳ Pendiente     |
-| Día 7      | ...                              |                                        | ⏳ Pendiente     |
-| Día 8      | ...                              |                                        | ⏳ Pendiente     |
-| Día 9      | Proyecto final integrador        | Git, lógica + estructura modular       | ⏳ Pendiente     |
+| 🔵 Desafío | 🧠 Tema                            | 🛠️ Tecnologías principales                | 🔵 Estado       |
+|-----------:|------------------------------------|-------------------------------------------|-----------------|
+| Día 1      | Variables y tipos de datos         | JavaScript ES6+, Git                      | ✅ Completado    |
+| Día 2      | Lógica + diseño con Flexbox        | JavaScript, Flexbox, estructura semántica | ✅ Completado    |
+| Día 3      | Lista de tareas en React (repaso + práctica) | React.js, JSX, useState, CSS Modules     | ✅ Completado    |
+| Día 4      | ...                                |                                           | ⏳ Pendiente     |
+| Día 5      | ...                                |                                           | ⏳ Pendiente     |
+| Día 6      | ...                                |                                           | ⏳ Pendiente     |
+| Día 7      | ...                                |                                           | ⏳ Pendiente     |
+| Día 8      | ...                                |                                           | ⏳ Pendiente     |
+| Día 9      | Proyecto final integrador          | Git, lógica + estructura modular          | ⏳ Pendiente     |
 
 ---
 
-## 🧱 Día 3 - Contador y lista interactiva en React
+## 🧱 Día 3 - Lista de tareas con React (repaso técnico)
 
-Este ejercicio consiste en una app construida con **React** que incluye:
+Este ejercicio consiste en una aplicación desarrollada con **React**, que refuerza conceptos esenciales de componentes, estado y eventos.
 
-- Un contador de tareas.
-- Una lista de tareas interactivas con estado (hecho / no hecho).
-- Botón para agregar nuevas tareas.
-- Uso de `useState`, props, JSX y eventos como `onClick`.
-- Estilo modularizado con CSS.
+🔹 **Objetivo pedagógico:** reforzar conocimientos clave del ecosistema React  
+🔹 **Resultado final:** una app funcional de lista de tareas con interfaz amigable
 
-### Objetivos:
+### Características:
 
-- Aplicar `useState` para manejar estados.
-- Renderizado condicional y componentes reutilizables.
-- Interacción dinámica con el usuario.
-- Buenas prácticas de estructura y nombrado.
+- ✅ Contador y lista de tareas dinámicas
+- ✅ Marcar y desmarcar tareas como hechas
+- ✅ Eliminar tareas individualmente
+- ✅ Diseño limpio, centrado y con fondo personalizado
+- ✅ Uso de `useState`, props y renderizado condicional
 
 ### ⚙️ Cómo ejecutarlo localmente
 
