@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+  background: url('https://picsum.photos/1600/900?blur=5') no-repeat center center fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}

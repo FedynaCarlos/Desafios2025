@@ -1,0 +1,117 @@
+/* Estilos generales para body con imagen fija */
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1470&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+/* Card principal */
+.app-card {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 30px 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  width: 350px;
+  max-width: 90%;
+  text-align: center;
+}
+
+/* Resto de estilos como antes */
+.app-card h1 {
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  color: #222;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 12px 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  border: 1.8px solid #bbb;
+  font-size: 1.05rem;
+  transition: border-color 0.25s ease;
+}
+
+input[type="text"].input-focused {
+  border-color: #007bff;
+  outline: none;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 11px 22px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background-color 0.25s ease;
+  margin-bottom: 25px;
+  width: 100%;
+}
+
+button.btn-hover,
+button:hover {
+  background-color: #0056b3;
+}
+
+.task-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+  max-height: 280px;
+  overflow-y: auto;
+}
+
+.task-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 11px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.task-item label {
+  flex-grow: 1;
+  cursor: pointer;
+  font-size: 1.05rem;
+  color: #333;
+}
+
+.task-item label.completed {
+  text-decoration: line-through;
+  color: #888;
+}
+
+.task-item input[type="checkbox"] {
+  margin-right: 12px;
+  transform: scale(1.3);
+  cursor: pointer;
+}
+
+.task-item button {
+  background-color: transparent;
+  border: none;
+  color: #cc3333;
+  cursor: pointer;
+  font-size: 0.95rem;
+  padding: 6px 12px;
+  border-radius: 6px;
+  transition: background-color 0.25s ease;
+}
+
+.task-item button.delete-hover,
+.task-item button:hover {
+  background-color: #cc3333;
+  color: #fff;
+}
