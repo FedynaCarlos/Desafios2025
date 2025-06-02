@@ -53,3 +53,6 @@ dia4-react-tareas/
 ├── package.json            # Dependencias y scripts
 ├── vite.config.js          # Configuración Vite
 └── README.md               # Este archivo
+
+🔗 [Ver el proyecto en vivo](https://superlative-frangipane-813365.netlify.app/)
+
