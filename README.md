@@ -65,13 +65,13 @@ Una app funcional donde se puede:
 📁 Estructura principal del proyecto
 
 dia4-react-tareas/
-├── public/                 # Archivos estáticos (ej: imagen fondo)
+├── public/
 ├── src/
-│   ├── assets/             # Recursos como imágenes (ej: react.svg)
-│   ├── App.jsx             # Componente principal con la lógica y UI
-│   └── main.jsx            # Entrada principal para React
-├── index.html              # Archivo HTML base
-├── package.json            # Dependencias y scripts npm
-├── vite.config.js          # Configuración de Vite
-└── README.md               # Este archivo
+│ ├── assets/
+│ ├── App.jsx
+│ └── main.jsx
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
 
