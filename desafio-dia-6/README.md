@@ -1,12 +1,20 @@
-# React + Vite
+# Lista de Tareas - Día 6
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es el proyecto correspondiente al **Día 6** del desafío de desarrollo web.  
+Una aplicación de Lista de Tareas construida con **React.js** que incluye:
 
-Currently, two official plugins are available:
+- Agregar tareas nuevas
+- Marcar tareas como completadas
+- Eliminar tareas
+- Filtrado dinámico de tareas: **Todas**, **Completadas**, **Pendientes**
+- Contadores que muestran cantidad total, completadas y pendientes
+- Persistencia de datos usando `localStorage` para que las tareas se mantengan al recargar la página
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js (con hooks: `useState`, `useEffect`)  
+- CSS para estilos simples y claros  
+- Vite como entorno de desarrollo y build  
+- localStorage para persistencia local
