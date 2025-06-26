@@ -1,16 +1,21 @@
 /* App.css */
-
 body {
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #f5f7fa;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  padding-top: 50px;
   margin: 0;
   padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f7fa;
 }
 
 .container {
   max-width: 600px;
-  margin: 40px auto;
-  background: #fff;
+  width: 90%;
+
+  background: yellowgreen;
   padding: 2rem;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
